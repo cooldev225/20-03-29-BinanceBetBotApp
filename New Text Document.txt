@@ -1,0 +1,3 @@
+
+"apiKey": "sdn7oAaY3Nk2FjzadYYxJL6VpJCLAJQ43by2vMGdJJkoR0OoBB3ZbXEU7UiVcsD5",
+"secret": "eGxPs8FPCfGq4XrZb4xO4gEYUq4M6rOwJcVyH6rBohwpAUzZKCAGp2VM9Hq8gA1b"

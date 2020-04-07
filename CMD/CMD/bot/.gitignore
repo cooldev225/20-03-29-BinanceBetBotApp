@@ -1,0 +1,9 @@
+node_modules
+yarn.lock
+api.txt
+config.json
+trade.json
+master.zip
+setting.json
+token.json
+last-states.json

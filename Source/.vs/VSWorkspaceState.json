@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.cache",
+    "\\.gnupg",
+    "\\.gnupg\\private-keys-v1.d",
+    "\\.ssh"
+  ],
+  "SelectedNode": "\\.cache\\motd.legal-displayed",
+  "PreviewInSolutionExplorer": false
+}
